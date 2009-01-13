@@ -1,8 +1,8 @@
-<?php
+﻿<?php
 /*
 Plugin Name: PAi Search Box
 Plugin URI: http://www.pai.pt/content/staticpages/PAi_novo/pt_pai_noseusite.html
-Description: Este plugin coloca uma caixa de pesquisa das Páginas Amarelas no seu blog e permite aos utilizadores efectuar pesquisas directamente em pai.pt.
+Description: Este widget coloca uma caixa de pesquisa das Paginas Amarelas no seu blog e permite aos utilizadores efectuar pesquisas directamente em pai.pt.
 Version: 1.0
 Author: Páginas Amarelas, SA
 Author URI: http://www.pai.pt
