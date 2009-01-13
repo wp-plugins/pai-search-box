@@ -15,14 +15,14 @@ Pode personalizar o tamanho da caixa de pesquisa para que se adapte melhor ao te
 
 Note que ao utilizar este widget concorda em manter o aspecto original da caixa de pesquisa - logotipo, imagens de fundo e cores - de modo a respeitar a imagem marca Paginas Amarelas, SA.
 
-Para mais informações visite http://www.pai.pt/ e clique no link "PAI no seu site".
+Para mais informacoes visite http://www.pai.pt/ e clique no link "PAi no seu site".
 
 == Installation ==
 
 1. Extrair o arquivo ZIP para o seu computador (pode utilizar a opcao "Extrair aqui")
-2. Faça upload "pai_searchbox.php" para a pasta "/wp-content/plugins/" do seu blog
+2. Faca upload "pai_searchbox.php" para a pasta "/wp-content/plugins/" do seu blog
 3. Active a extensao na seccao "Extensoes" do painel de administracao do seu blog
-4. Na secção "Widgets" do menu "Apresentacao" arraste o widget "PAI Search Box" para a barra lateral
+4. Na seccao "Widgets" do menu "Apresentacao" arraste o widget "PAi Search Box" para a barra lateral
 
 
 == Support ==
